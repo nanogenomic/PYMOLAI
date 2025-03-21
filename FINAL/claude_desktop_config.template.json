@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/USERNAME/Desktop",
+        "/Users/USERNAME/Downloads",
+        "/Users/USERNAME/PATH_TO_INSTALLATION",
+        "/Users/USERNAME/Library/Application Support/Claude",
+        "/Users/USERNAME/.pymol/plugins/claude_integration"
+      ]
+    },
+    "pymol": {
+      "command": "python3",
+      "args": [
+        "/Users/USERNAME/PATH_TO_INSTALLATION/pymol_mcp.py"
+      ]
+    }
+  }
+}
