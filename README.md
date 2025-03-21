@@ -1,3 +1,5 @@
+MOLAI v0.1.0
+
 # PyMOL-Claude Integration
 
 A direct integration between Claude AI and PyMOL molecular visualization software, enabling Claude to control and manipulate molecular structures in PyMOL.
