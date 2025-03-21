@@ -1,21 +1,19 @@
-MIT License
+# MIT-LIGANDAL Hybrid License
 
-Copyright (c) 2025 nanogenomic
+Copyright (c) 2025 Ligandal Inc. & Andre Watson (@nanogenomic)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. If you build upon, modify, or incorporate this Software into any product that also uses any other software tools, software libraries, software APIs, or software-related intellectual property owned or licensed by Ligandal Inc. ("Ligandal's Software Tools"), you agree to pay Ligandal Inc. a royalty of three percent (3%) of gross sales of any such product.
+
+3. "Gross sales" means the total amount received or invoiced by you or your affiliates for any product that incorporates both this Software and Ligandal's Other Tools, without any deductions for costs, expenses, taxes, or other items.
+
+4. This royalty obligation applies to any product that both (a) incorporates, is derived from, or built upon this Software, and (b) uses Ligandal's Software Tools. For clarity, this royalty obligation does not apply when this Software is used independently of Ligandal's Software Tools.
+
+5. The use of this Software with any of Ligandal's physical products is subject to a separate licensing agreement. Contact Ligandal Inc. for details on licensing terms for such use cases, which may include royalty rates exceeding the 3% specified in this license.
+
+6. You shall keep accurate records regarding the gross sales of all products subject to the royalty obligation. Ligandal Inc. reserves the right to audit such records upon reasonable notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
