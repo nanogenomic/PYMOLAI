@@ -56,3 +56,5 @@ This project is licensed under a hybrid MIT - Ligandal License - see the [LICENS
 - Anthropic for developing Claude AI
 - PyMOL developers for the powerful molecular visualization software
 - This integration was created by Andre Watson (@nanogenomic)
+
+© Ligandal, Inc. 2025
